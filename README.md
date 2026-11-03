@@ -1,6 +1,6 @@
 # T.K. Sree Nikhil — Portfolio
 
-Live website: https://sreenikhil.github.io/
+Live website: https://tksreenikhil.github.io/
 
 Owner dashboard and Excel export: https://sree-nikhil-brand-studio.rocky1111.chatgpt.site/admin
 
